@@ -2,6 +2,8 @@
 ## `EXP_Vector2Value` / `EXP_Vector3Value` / `EXP_Vector4Value`
 ### UPBGE — Expressions Module
 
+### Status Implementation: IMPLEMENTED (2026/02/28)
+
 ---
 
 ## 1. Overview
