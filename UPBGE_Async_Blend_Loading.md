@@ -1,5 +1,3 @@
---- START OF FILE UPBGE_AsyncBlendLoading_v3.2.md ---
-
 # UPBGE Async Selective Blend Loading — Implementation Architecture v3.2
 
 ## Table of Contents
