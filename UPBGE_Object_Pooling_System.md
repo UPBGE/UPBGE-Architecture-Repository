@@ -1,4 +1,4 @@
-# Object Pooling System - Complete Specification for UPBGE 0.50
+# Object Pooling System
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
@@ -1595,5 +1595,6 @@ def main(cont):
 6. **Debuggable** - Clear console output and Python inspection tools
 
 ---
+
 
 **This specification provides a complete, production-ready object pooling system that dramatically improves UPBGE performance while maintaining full compatibility with existing projects. Users can enable pooling with a single checkbox and see immediate benefits without changing any logic bricks or code.**
