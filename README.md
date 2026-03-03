@@ -15,7 +15,7 @@ Please, use Markdown format.
 Mark each document as implemented when its corresponding feature is completed.
 
 - [ ] `UPBGE_Async_Blend_Loading.md`
--  ✅ `UPBGE_EXP_VectorTypes_Structure.md`
+  ✅ `UPBGE_EXP_VectorTypes_Structure.md`
 - [ ] `UPBGE_LogicBricks_RuntimeBindableFields_Architecture.md`
 - [ ] `UPBGE_Logic_Bricks_2.0_Architecture.md`
 - [ ] `UPBGE_MIDI_Architecture.md`
